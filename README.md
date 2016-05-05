@@ -7,3 +7,7 @@
 - use [sync-settings](https://github.com/atom-community/sync-settings) and sync atom settings
 
 ### [zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+
+## font
+### [Hack font](http://sourcefoundry.org/hack/)
