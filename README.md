@@ -1,14 +1,23 @@
 # MyDevelopTools
 
+## App
+
 ### [chrome](https://www.google.co.kr/chrome/browser/desktop/)
+* [webgl-inspector](https://chrome.google.com/webstore/detail/webgl-inspector/ogkcjmbhnfmlnielkjhedpcjomeaghda/related?hl=ko)
+* [react developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko)
+* [react-detector](https://chrome.google.com/webstore/detail/react-detector/jaaklebbenondhkanegppccanebkdjlh?hl=ko)
 
 ### [Iterm2](https://www.iterm2.com/)
 * [Iterm2-theme](http://iterm2colorschemes.com/)
 
-### [homebrew](http://brew.sh/)
-
 ### [atom](https://atom.io/)
 - [sync-settings](https://github.com/atom-community/sync-settings) - sync atom settings to github private gist
+
+### [GraphiQL-App](https://github.com/skevy/graphiql-app)
+
+## CLI tools
+
+### [homebrew](http://brew.sh/)
 
 ### [zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
